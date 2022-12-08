@@ -1,0 +1,6 @@
+# Ignore unnecessary .txt files
+**/output.txt
+**/test.txt
+
+# Ignore all build directories
+**/build/
